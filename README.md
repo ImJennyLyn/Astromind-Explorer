@@ -1,4 +1,4 @@
-# final_project_cosc30
+# Astromind Explorer
 
 A new Flutter project.
 
