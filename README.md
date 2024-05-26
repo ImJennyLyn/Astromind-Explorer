@@ -1,8 +1,24 @@
 # Astromind Explorer
+A school Mobile application Project For out subject of CSPC30.
+We are 3 members in Our group, and each members has a role to fullfil.
 
-A new Flutter project.
+Jenny Lyn Vallador    
+Antoinette Nadala      
+Cris John Angcaya
 
-## Getting Started
+# Overview
+Astromind Explorer is a one-of-a-kind game that combines challenges and luck-based fun in a seamless way. It provides a variety of activities and personalized brain exercises for an engaging experience. The visually immersive space galaxy theme makes it stand out as a unique and entertaining destination for both fun and mental stimulation.
+
+
+
+
+
+
+
+
+
+
+#Getting Started
 
 This project is a starting point for a Flutter application.
 
