@@ -15,8 +15,15 @@ Astromind Explorer is a one-of-a-kind game that combines challenges and luck-bas
 3.Lucky Games - In the Lucky Games section, users can participate in games of chance and luck. This includes activities like color games, dice, and other games where winning is based on luck rather than skill. It's an exciting way to test one's fortune and win rewards.
 4.User Profile - The User Profile section allows users to manage their personal information and settings within the app. Users can update their profile details, view their game history, track their progress, and customize their app experience according to their preferences.
 5.About us - The About Us section provides information about the creators of the app, their mission, vision, and the story behind the app's development. It also include the developers informations.
-1.Login
+
+#
+
 ![login](https://github.com/Rinxxash/Astromind-Explorer/assets/165652617/eed174a6-07dd-44e4-8893-a561fbf05ee2)
+![mind](https://github.com/Rinxxash/Astromind-Explorer/assets/165652617/b878ec96-29cb-46fd-921f-1a754857030a)
+![lucky](https://github.com/Rinxxash/Astromind-Explorer/assets/165652617/2325cc93-9fb0-426a-ba46-170690736ed8)
+![user profile](https://github.com/Rinxxash/Astromind-Explorer/assets/165652617/598eb621-7094-4425-a00b-1158f5398e1e)
+![aboutus](https://github.com/Rinxxash/Astromind-Explorer/assets/165652617/a956a89c-b190-4881-9fbc-d437d32d7aa8)
+
 
 
 
