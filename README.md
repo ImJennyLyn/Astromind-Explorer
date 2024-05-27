@@ -2,9 +2,10 @@
 A Mobile application Final Project For our subject of COSC30.
 We are 3 members in Our group, and each members has a role to fullfil.
 
-Jenny Lyn Vallador    
-Antoinette Nadala      
-Cris John Angcaya
+**Members**             
+Jenny Lyn Vallador     **Mobile Application Developer/Game Developer*
+Antoinette Nadala      **UI designer/Game Developer*
+Cris John Angcaya      **Game Developer*
 
 # Overview
 Astromind Explorer is a one-of-a-kind game that combines challenges and luck-based fun in a seamless way. It provides a variety of activities and personalized brain exercises for an engaging experience. The visually immersive space galaxy theme makes it stand out as a unique and entertaining destination for both fun and mental stimulation.
