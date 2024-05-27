@@ -4,7 +4,9 @@ We are 3 members in Our group, and each members has a role to fullfil.
 
 **Members**             
 Jenny Lyn Vallador     **Mobile Application Developer/Game Developer*
+
 Antoinette Nadala      **UI designer/Game Developer*
+
 Cris John Angcaya      **Game Developer*
 
 # Overview
