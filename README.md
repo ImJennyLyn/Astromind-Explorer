@@ -1,5 +1,5 @@
 # Astromind Explorer
-A Mobile application Final Project For our subject of CSPC30.
+A Mobile application Final Project For our subject of COSC30.
 We are 3 members in Our group, and each members has a role to fullfil.
 
 Jenny Lyn Vallador    
