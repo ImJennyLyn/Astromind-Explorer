@@ -3,7 +3,7 @@ A Mobile application Final Project For our subject of COSC30.
 We are 3 members in Our group, and each members has a role to fullfil.
 
 **Members**             
-Jenny Lyn Vallador     *Mobile Application Developer/Game Developer*
+Jenny Lyn Vallador     *Mobile Application Developer/Game Developer/UI support*
 
 Antoinette Nadala      *UI designer/Game Developer*
 
